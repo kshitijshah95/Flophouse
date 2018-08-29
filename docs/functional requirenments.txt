@@ -1,0 +1,21 @@
+functional specifications:-
+-login
+-home page
+-outpass
+-notifications
+
+modules:-
+-non gui program on java
+-integration of the program with gui
+-porting it on android
+-creating the database
+-putting the database on a server
+-integration of the android app with the database
+-web application for authority side
+-installing webpages on a webserver
+-integration of the web application with the database
+
+modules in the non-gui program
+-login
+-linking with the database
+-outpass generation(automatic) by fetching records from the database
